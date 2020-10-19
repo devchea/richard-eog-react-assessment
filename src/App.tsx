@@ -13,10 +13,10 @@ const store = createStore();
 const theme = createMuiTheme({
   palette: {
     primary: {
-      main: 'rgb(139,149,166)',
+      main: 'rgb(39,49,66)',
     },
     secondary: {
-      main: 'rgb(197,208,222)',
+      main: 'rgb(97,08,22)',
     },
     background: {
       default: 'rgb(226,231,238)',
