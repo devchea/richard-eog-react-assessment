@@ -16,10 +16,10 @@ const theme = createMuiTheme({
       main: 'rgb(39,49,66)',
     },
     secondary: {
-      main: 'rgb(97,08,22)',
+      main: 'rgb(197,208,222)',
     },
     background: {
-      default: 'rgb(226,231,238)',
+      default: 'rgb(26,31,38)',
     },
   },
 });
